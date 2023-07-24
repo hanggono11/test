@@ -1,5 +1,5 @@
 <?php
 phpinfo();
 echo "yuhuu";
-echo "testing branch";
+echo "testing branch2";
 ?>
